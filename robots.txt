@@ -1,0 +1,4 @@
+# Chỉ có tác dụng khi dashboard dùng tên miền riêng. Với ten.github.io/lsn-dashboard,
+# thẻ meta noindex trong index.html mới là biện pháp chặn lập chỉ mục.
+User-agent: *
+Disallow: /
